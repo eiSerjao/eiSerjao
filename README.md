@@ -1,6 +1,6 @@
 ### Eae Firmeza? Sou Paulo Sérgio 👋
 
-- 🌱 Estudando Java & HTMl, CSS e JavaScript
+- 🌱 Estudando HTMl, CSS e JavaScript
 - 📫 Contate-me no email: paulosergiobarrosdesouza@gmail.com
 - 😄 Pronouns: ele/dele
 
